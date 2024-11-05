@@ -13,10 +13,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-# FOD animations
-EXTRA_UDFPS_ANIMATIONS := true
-# FOD
-TARGET_HAS_FOD := true
 TARGET_HAS_UDFPS := true
 # NFC
 TARGET_USES_NXP_NFC := true
